@@ -1,4 +1,7 @@
-## Hi there 👋
+<!--
+# (https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
+-->
+### Soy Óscar Fernández, es un placer 👋
 
 <!--
 **OskarFreestyle/OskarFreestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
