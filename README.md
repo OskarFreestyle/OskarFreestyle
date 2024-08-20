@@ -2,7 +2,7 @@
 # (https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
 -->
 
-# ![https://mouredev.com](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/VideogameControllerIcon.png =100x100) ¡Hola! Soy Óscar Fernández 👋
+# ![https://mouredev.com](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/VideogameControllerIcon.png =100x) ¡Hola! Soy Óscar Fernández 👋
 # Desarrollador de Videojuegos 🖤
 
 Soy un **desarrollador de videojuegos** recién graduado de la **Universidad Complutense de Madrid**, donde completé mi carrera en Desarrollo de Videojuegos.
