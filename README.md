@@ -1,8 +1,8 @@
 <!--
 # (https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
 -->
-### ¡Hola! Soy Óscar Fernández 👋
-## Desarrollador de Videojuegos 🖤
+## ¡Hola! Soy Óscar Fernández 👋
+# Desarrollador de Videojuegos 🖤
 
 Soy un **desarrollador de videojuegos** recién graduado de la **Universidad Complutense de Madrid**, donde completé mi carrera en Desarrollo de Videojuegos.
 
