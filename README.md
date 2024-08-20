@@ -6,6 +6,8 @@
 
 Soy un **desarrollador de videojuegos** recién graduado de la **Universidad Complutense de Madrid**, donde completé mi carrera en Desarrollo de Videojuegos.
 
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" />
+
 Durante estos años, he tenido la oportunidad de sumergirme en los diversos aspectos del desarrollo de videojuegos, con un enfoque particular en la programación. He desarrollado competencias sólidas en **C++** y **C#**, los cuales son mis lenguajes de programación principales. Además, también tengo experiencia y me siento cómodo trabajando con **Java, JavaScript, y Python.**
 
 Soy experto en **Unity**, donde he creado varios proyectos y dominado sus herramientas. También he tenido alguna experiencia con **Godot** y **Unreal Engine**. Gracias a mi comprensión de cómo funcionan internamente los motores de videojuegos, no me costaría demasiado trabajo adaptarme a nuevos entornos de desarrollo.
