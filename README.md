@@ -6,12 +6,10 @@
 
 Soy un **desarrollador de videojuegos** recién graduado de la **Universidad Complutense de Madrid**, donde completé mi carrera en Desarrollo de Videojuegos.
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" />
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" />
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg" width="40" height="40" />
 
-![](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg){width='100px'}
-![](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg){width='100px'}
+![](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg){width='100px'}![](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg){width='100px'}
 
 ![](https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%2B%2BIcon.svg){width='100px'}
 
