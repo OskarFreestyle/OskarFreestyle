@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/00170306-fba3-45dc-9c70-d1004887f709)<!--
+<!--
 # (https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
 -->
 # <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/VideogameControllerIcon.png" width="40" height="40" /> ¡Hola! Soy Óscar Fernández 👋
