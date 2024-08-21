@@ -15,11 +15,11 @@ Además, estoy familiarizado con el uso de **sistemas de control de versiones** 
 Mi pasión por los videojuegos no solo se refleja en mi formación académica, sino también en mi deseo constante de aprender y mejorar. Estoy emocionado por aplicar mis conocimientos y habilidades en proyectos desafiantes que me permitan crecer como desarrollador y contribuir a la creación de experiencias de juego inolvidables.
 
 ## Mis skills
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels1.png" width="40" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels1.png" width="100" height="40" />
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="40" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="100" height="40" />
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="40" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
 
 
 <!--
