@@ -16,10 +16,13 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 
 ## Mis skills
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels1.png" width="100" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C++Icon.png" width="100" height="40" />
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="100" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/VegasIcon.png" width="100" height="40" />
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/SQLIcon.png" width="100" height="40" />
 
 
 <!--
