@@ -17,7 +17,7 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 ## Mis skills
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels1.png" width="100" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C++Icon.png" width="36" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/C%23Icon.png" width="36" height="40" />
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="100" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/BlenderIcon.png" width="49" height="40" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="100" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/BlenderIcon.png" width="49" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/BlenderIcon.png" height="40" style="height: 40px; width: auto;" />
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" /><img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/SQLIcon.png" width="38" height="40" />
 
