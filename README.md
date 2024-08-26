@@ -23,6 +23,7 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 
 ## Contacto
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/EmailIcon.png" height="40" style="height: 40px; width: auto;" /> oscafe01@ucm.es
+
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="40" style="height: 40px; width: auto;" /> https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-romano-b51aa92a3/
 
 
