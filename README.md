@@ -32,7 +32,7 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
   <summary>Desplegar Portfolio</summary>
     
 ### Articoding
-Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. Enlace al [repositorio.](https://github.com/OskarFreestyle/Articoding23-24)
+Articoding es un juego serio educativo desarrollado en Unity por alumnos del Grado de Desarrollo de Videojuegos de la Universidad Complutense de Madrid. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. Enlace al [repositorio.](https://github.com/OskarFreestyle/Articoding23-24)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding1.png" style="width: 49%; height: auto;" />
@@ -42,14 +42,14 @@ Articoding es un juego serio educativo desarrollado dentro de la Universidad Com
 ### HISPlayer
 HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional. Enlace a la [página web.](https://hisplayer.com/)
 
-El primer proyecto que desarrollé consistió en una demo técnica en HTML5, diseñada para mostrar un entorno 3D que integra reproductores de video utilizando la API de HISPlayer. Enlace a la [demo técnica.](https://hisplayer-demos.s3.amazonaws.com/webgl-demo/webgl-demo-hisplayermonuments/index.html)
+El primer proyecto que desarrollé consistió en una demo técnica en HTML5 utilizando Unity, diseñada para mostrar un entorno 3D que integra reproductores de video utilizando la API de HISPlayer. Enlace a la [demo técnica.](https://hisplayer-demos.s3.amazonaws.com/webgl-demo/webgl-demo-hisplayermonuments/index.html)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer2.png" style="width: 49%; height: auto;" />
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer1.png" style="width: 49%; height: auto;" />
 </div>
 
-El segundo proyecto fue una demo técnica en HTML5, diseñada para recrear un casino en el que el juego se desarrolla en un entorno 3D. Esta demo está vinculada a un streaming en vivo de un casino real, donde se realizan las tiradas de la ruleta en tiempo real. La demo no está disponible de manera pública.
+El segundo proyecto fue una demo técnica en HTML5 utilizando Unity, diseñada para recrear un casino en el que el juego se desarrolla en un entorno 3D. Esta demo está vinculada a un streaming en vivo de un casino real, donde se realizan las tiradas de la ruleta en tiempo real. La demo no está disponible de manera pública.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer3.png" style="width: 49%; height: auto;" />
