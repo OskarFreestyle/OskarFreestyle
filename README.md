@@ -42,6 +42,8 @@ Articoding es un juego serio educativo desarrollado dentro de la Universidad Com
 ### HISPlayer
 HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional. Enlace a la [página web.](https://hisplayer.com/)
 
+El primer proyecto que desarrollé consistió en una demo técnica en HTML5, diseñada para mostrar un entorno 3D que integra reproductores de video utilizando la API de HISPlayer. Enlace a la [demo técnica.](https://hisplayer-demos.s3.amazonaws.com/webgl-demo/webgl-demo-hisplayermonuments/index.html)
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer1.png" style="width: 49%; height: auto;" />
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer2.png" style="width: 49%; height: auto;" />
