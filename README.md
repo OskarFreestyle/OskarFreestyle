@@ -26,6 +26,15 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="40" style="height: 40px; width: auto;" /> &nbsp;&nbsp; https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-romano-b51aa92a3/
 
+## Proyectos más relevantes
+### Articoding
+Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques.
+(Imágenes)
+
+### HISPlayer
+HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional.
+
+
 
 <!--
 **OskarFreestyle/OskarFreestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
