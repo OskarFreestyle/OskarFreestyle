@@ -45,16 +45,25 @@ HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresa
 El primer proyecto que desarrollé consistió en una demo técnica en HTML5, diseñada para mostrar un entorno 3D que integra reproductores de video utilizando la API de HISPlayer. Enlace a la [demo técnica.](https://hisplayer-demos.s3.amazonaws.com/webgl-demo/webgl-demo-hisplayermonuments/index.html)
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer1.png" style="width: 49%; height: auto;" />
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer2.png" style="width: 49%; height: auto;" />
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer1.png" style="width: 49%; height: auto;" />
 </div>
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
+El segundo proyecto fue una demo técnica en HTML5, diseñada para recrear un casino en el que el juego se desarrolla en un entorno 3D. Esta demo está vinculada a un streaming en vivo de un casino real, donde se realizan las tiradas de la ruleta en tiempo real. La demo no está disponible de manera pública.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer3.png" style="width: 49%; height: auto;" />
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer4.png" style="width: 49%; height: auto;" />
+</div>
+
+El tercer proyecto fue una demo técnica similar, adaptada específicamente para dispositivos Android.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer5.png" style="width: 49%; height: auto;" />
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer6.png" style="width: 49%; height: auto;" />
+</div>
 
 ### Motor-Ola
 MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. Enlace al [repositorio.](https://github.com/OskarFreestyle/Motor-Ola-Recu)
-  
-  Aquí está el texto oculto. Se mostrará cuando el usuario haga clic en "Texto para mostrar".
   
 </details>
 
