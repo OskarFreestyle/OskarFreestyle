@@ -56,7 +56,7 @@ El segundo proyecto fue una demo técnica en HTML5, diseñada para recrear un ca
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer4.png" style="width: 49%; height: auto;" />
 </div>
 
-El tercer proyecto fue una demo técnica similar, adaptada específicamente para dispositivos Android.
+El tercer proyecto fue una demo técnica similar, adaptada específicamente para dispositivos Android. La demo no está disponible de manera pública.
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer5.png" style="width: 49%; height: auto;" />
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/HISPlayer6.png" style="width: 49%; height: auto;" />
@@ -64,7 +64,7 @@ El tercer proyecto fue una demo técnica similar, adaptada específicamente para
 
 ### Motor-Ola
 MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. Enlace al [repositorio.](https://github.com/OskarFreestyle/Motor-Ola-Recu)
-  
+
 </details>
 
 <!--
