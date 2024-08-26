@@ -28,7 +28,7 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 
 ## Proyectos más relevantes
 ### Articoding
-Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. [Repositorio](https://github.com/OskarFreestyle/Articoding23-24)
+Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. Enlace al [repositorio](https://github.com/OskarFreestyle/Articoding23-24)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding1.png" style="width: 49%; height: auto;" />
@@ -36,12 +36,12 @@ Articoding es un juego serio educativo desarrollado dentro de la Universidad Com
 </div>
 
 ### HISPlayer
-HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional. [Página web](https://hisplayer.com/)
+HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional. Enlace a la [página web](https://hisplayer.com/)
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
 
 ### Motor-Ola
-MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. [Repositorio](https://github.com/OskarFreestyle/Motor-Ola-Recu)
+MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. Enlace al [repositorio](https://github.com/OskarFreestyle/Motor-Ola-Recu)
 
 
 
