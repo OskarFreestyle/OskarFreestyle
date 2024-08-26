@@ -19,13 +19,26 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels2.png" width="100" height="40" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/BlenderIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/JavaIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/JavaScriptIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/PythonIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/UnrealEngineIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/GodotIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/AndroidStudioIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/PhotoshopIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/FigmaIcon.png" height="40" style="height: 40px; width: auto;" />
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/SQLIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/CSSIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LuaIcon.png" height="40" style="height: 40px; width: auto;" />
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/SQLIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/CSSIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LuaIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/IntelliJIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/HeidiSQLIcon.png" height="40" style="height: 40px; width: auto;" />
 
 ## Contacto
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/EmailIcon.jpg" height="80" style="height: 80px; width: auto;" /> oscafe01@ucm.es
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/EmailIcon.png" height="25" style="height: 25px; width: auto;" /> &nbsp;&nbsp; oscafe01@ucm.es
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="40" style="height: 40px; width: auto;" /> https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-romano-b51aa92a3/
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="25" style="height: 25px; width: auto;" /> &nbsp;&nbsp; https://www.linkedin.com/in/OscarFernandezRomano
 
+## Proyectos más relevantes
+### Articoding
+Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques.
+
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
+
+### HISPlayer
+HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional.
+
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />
+
+### Motor-Ola
+MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA.
 
 <!--
 **OskarFreestyle/OskarFreestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
