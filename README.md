@@ -65,4 +65,16 @@ El tercer proyecto fue una demo técnica similar, adaptada específicamente para
 ### Motor-Ola
 MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. Enlace al [repositorio.](https://github.com/OskarFreestyle/Motor-Ola-Recu)
 
+### DoppleBanger
+DoppleBanger es un proyecto del grado de Desarrollo de videojuegos de la Universidad Complutense de Madrid que consiste en un videojuego de acción rpg con vista isométrica de temática pirata consistente en visitar, superar y saquear equipamiento y tesoros de distintos niveles visitables por el jugador siguiendo la estructura fundamental del género establecido. En el proceso se encontrará una variedad de enemigos que deben ser derrotados por el jugador para llegar al ob jetivo. Cada nivel jugable será una isla con una dificultad progresiva de manera que cada zona dentro de la misma sea más difícil que la anterior. La dificultad de las islas también aumenta de manera progresiva. Enlace al [repositorio.](https://github.com/C-Tas/DoppleBanger)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/DoppleBanger1.png" style="width: 49%; height: auto;" />
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/DoppleBanger2.png" style="width: 49%; height: auto;" />
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/DoppleBanger3.png" style="width: 49%; height: auto;" />
+    <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/DoppleBanger4.png" style="width: 49%; height: auto;" />
+</div>
+
 </details>
