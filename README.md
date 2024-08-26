@@ -32,7 +32,7 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
   <summary>Desplegar Portfolio</summary>
     
 ### Articoding
-Articoding es un juego serio educativo desarrollado en Unity por alumnos del Grado de Desarrollo de Videojuegos de la Universidad Complutense de Madrid. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. Enlace al [repositorio.](https://github.com/OskarFreestyle/Articoding23-24)
+Articoding es un juego serio educativo desarrollado en Unity por alumnos del Grado de Desarrollo de Videojuegos de la Universidad Complutense de Madrid. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. El juego tiene una comunidad en la que los usuarios pueden compartir sus propios niveles y juegos los del resto de usuarios. Enlace al [repositorio.](https://github.com/OskarFreestyle/Articoding23-24)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding1.png" style="width: 49%; height: auto;" />
