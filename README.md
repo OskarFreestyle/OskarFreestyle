@@ -22,7 +22,8 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/TierLevels3.png" width="100" height="40" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/SQLIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/CSSIcon.png" height="40" style="height: 40px; width: auto;" />&nbsp;&nbsp;<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LuaIcon.png" height="40" style="height: 40px; width: auto;" />
 
 ## Contacto
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/EmailIcon.jpg" height="40" style="height: 40px; width: auto;" /> oscafe01@ucm.es
+<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/EmailIcon.jpg" height="80" style="height: 80px; width: auto;" /> oscafe01@ucm.es
+
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="40" style="height: 40px; width: auto;" /> https://www.linkedin.com/in/%C3%B3scar-fern%C3%A1ndez-romano-b51aa92a3/
 
 
