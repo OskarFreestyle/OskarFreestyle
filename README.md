@@ -35,9 +35,6 @@ Articoding es un juego serio educativo desarrollado dentro de la Universidad Com
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding2.png" style="width: 49%; height: auto;" />
 </div>
 
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding1.png" height="400" style="height: 400px; width: auto;" />
-<img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/Articoding2.png" height="400" style="height: 400px; width: auto;" />
-
 ### HISPlayer
 HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresariales. Durante mi estancia en la empresa, tuve la oportunidad de participar en diversas actividades y proyectos de esta, lo que me permitió adquirir conocimientos y habilidades relevantes para mi futuro profesional.
 
