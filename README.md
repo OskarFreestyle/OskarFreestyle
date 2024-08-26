@@ -78,7 +78,7 @@ DoppleBanger es un proyecto del grado de Desarrollo de videojuegos de la Univers
 </div>
 
 ### Goblin Slayer
-Goblin Slayer es un videojuego de acción de tipo Hack ‘n’ Slash con vista de scroll lateral 2D que está basado en el anime de mismo nombre Goblin Slayer. Está ambientado en cuevas donde los goblins residen y el objetivo es acabar con todos ellos, ya que éstos causan estragos por donde pasan.
+Goblin Slayer es un videojuego de acción de tipo Hack ‘n’ Slash con vista de scroll lateral 2D que está basado en el anime de mismo nombre Goblin Slayer. Está ambientado en cuevas donde los goblins residen y el objetivo es acabar con todos ellos, ya que éstos causan estragos por donde pasan. Enlace al [repositorio.](https://github.com/while-true-studio/GoblinSlayer)
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/GoblinSlayer1.png" style="width: 49%; height: auto;" />
     <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/Portfolio/GoblinSlayer2.png" style="width: 49%; height: auto;" />
