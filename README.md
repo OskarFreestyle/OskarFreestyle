@@ -27,6 +27,10 @@ Mi pasión por los videojuegos no solo se refleja en mi formación académica, s
 <img src="https://github.com/OskarFreestyle/OskarFreestyle/blob/main/Images/LinkedInIcon.png" height="25" style="height: 25px; width: auto;" /> &nbsp;&nbsp; https://www.linkedin.com/in/OscarFernandezRomano
 
 ## Proyectos más relevantes
+
+<details>
+  <summary>Desplegar Portfolio</summary>
+    
 ### Articoding
 Articoding es un juego serio educativo desarrollado dentro de la Universidad Complutense de Madrid, por alumnos del Grado de Desarrollo de Videojuegos. El juego busca promover el desarrollo del pensamiento computacional (Computational Thinking) mediante la enseñanza de conceptos fundamentales de programación. El jugador debe superar niveles resolviendo los problemas que se plantean en un escenario en forma de tablero utilizando la programación visual por bloques. Enlace al [repositorio.](https://github.com/OskarFreestyle/Articoding23-24)
 
@@ -47,9 +51,6 @@ HISPlayer es la empresa que elegí para realizar mis primeras prácticas empresa
 
 ### Motor-Ola
 MotorOla es un motor de videojuegos desarrollado en el marco de la asignatura Proyectos 3. Este motor ha sido implementado en C++ y utiliza un conjunto de librerías especializadas, incluyendo SDL, Ogre3D, OgreOverlay, Nvidia Physx y Fmod. MotorOla sigue el patrón arquitectónico Entity-Component-System (ECS) y permite la carga de juegos a partir de archivos LUA. Enlace al [repositorio.](https://github.com/OskarFreestyle/Motor-Ola-Recu)
-
-<details>
-  <summary>Texto para mostrar</summary>
   
   Aquí está el texto oculto. Se mostrará cuando el usuario haga clic en "Texto para mostrar".
   
