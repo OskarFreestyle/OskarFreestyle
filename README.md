@@ -8,7 +8,7 @@ Soy un **desarrollador de videojuegos** recién graduado de la **Universidad Com
 
 Durante estos años, he tenido la oportunidad de sumergirme en los diversos aspectos del desarrollo de videojuegos, con un enfoque particular en la programación. He desarrollado competencias sólidas en **C++** y **C#**, los cuales son mis lenguajes de programación principales. Además, también tengo experiencia y me siento cómodo trabajando con **Java, JavaScript, y Python.**
 
-Soy experto en **Unity**, donde he creado varios proyectos y dominado sus herramientas. También he tenido alguna experiencia con **Godot** y **Unreal Engine**. Gracias a mi comprensión de cómo funcionan internamente los motores de videojuegos, no me costaría demasiado trabajo adaptarme a nuevos entornos de desarrollo.
+Soy experto en **Unity**, donde he creado varios proyectos y dominado sus herramientas. También he tenido alguna experiencia con **Godot** y **Unreal Engine**. Gracias a mi comprensión de cómo funcionan internamente los motores de videojuegos, estoy capacitado para adaptarme rápidamente a nuevos entornos de desarrollo.
 
 Además, estoy familiarizado con el uso de **sistemas de control de versiones** como Git, lo que me ayuda a gestionar y colaborar en proyectos de manera eficiente. También tengo conocimientos en **Photoshop** para diseño gráfico, **Blender** para modelado 3D, y **Sony Vegas** para edición de video, lo que me da la versatilidad para trabajar en diversos aspectos creativos del desarrollo de videojuegos.
 
